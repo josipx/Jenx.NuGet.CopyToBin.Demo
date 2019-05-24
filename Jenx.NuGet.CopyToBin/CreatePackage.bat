@@ -1,0 +1,1 @@
+%~dp0nuget pack Jenx.NuGet.CopyToBin.nuspec

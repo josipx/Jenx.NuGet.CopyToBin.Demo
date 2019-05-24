@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Jenx.Nuget.CopyToBinDemo</id>
+    <version>1.0.0.0</version>
+    <title>Jenx.Nuget.CopyToBinDemo</title>
+    <authors>jenx.si</authors>
+    <owners>jenx.si</owners>
+    <iconUrl>http://www.jenx.si/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuGet demo for copy-to-bin artifact.</description>
+    <copyright>Jenx.si - 2019</copyright>
+  </metadata>
+  <files>
+    <file src="Content\CopyToBinConfig.xml" target="content\ExternalConfig\CopyToBinConfig.xml" />
+  </files>
+</package>
